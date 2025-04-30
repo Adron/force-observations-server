@@ -62,7 +62,3 @@ The server will start on port 8080 by default.
 1. Create new packages in the `internal` directory
 2. Add corresponding tests in the same package
 3. Update the API endpoints in `internal/api`
-
-## License
-
-[License information to be added] 
