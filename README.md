@@ -1,3 +1,5 @@
+[![Go](https://github.com/Adron/force-observations-server/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/Adron/force-observations-server/actions/workflows/go.yml)
+
 # Force Observations Server
 
 A Go-based server for managing computer vision activities across multiple cameras. This service provides API endpoints for camera management, video processing, and observation data collection.
